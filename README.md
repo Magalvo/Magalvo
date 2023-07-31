@@ -1,7 +1,5 @@
 
-
-
-<img width="1834" alt="Rocket README" src="https://github.com/Magalvo/Magalvo/assets/49295480/1f22686c-4b0f-4b47-b11a-5298b8a29f36">
+<img width="1834" alt="README" src="https://github.com/Magalvo/Magalvo/assets/49295480/5780990e-2ad7-43d9-9ab1-c028305d6419">
 
 <div style="display: flex; justify-content: space-between; align-items: center;">
   <div>
@@ -25,7 +23,10 @@
     
   </div>
 
+
+
   <img style="height: 300px; text-align: right;" src="https://github.com/Magalvo/Magalvo/assets/49295480/706ea4ab-9758-428d-a818-6e9e898434e2" alt="banner gitta">
+  
 </div>
 
 
